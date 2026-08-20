@@ -1,1 +1,139 @@
-
+{
+  "players": [
+    "DR|Retro",
+    "B3stRayyyy",
+    "Eqweeky",
+    "саня квадробер",
+    "Mishka",
+    "сахоня",
+    "kxxao",
+    "wortekz",
+    "Toshka",
+    "Roocher",
+    "UncleBulat",
+    "Unees"
+  ],
+  "drawnPlayers": [
+    "DR|Retro",
+    "B3stRayyyy",
+    "Eqweeky",
+    "саня квадробер",
+    "Mishka",
+    "сахоня",
+    "kxxao",
+    "wortekz",
+    "Toshka",
+    "Roocher",
+    "UncleBulat",
+    "Unees"
+  ],
+  "groups": [
+    [
+      "DR|Retro",
+      "B3stRayyyy",
+      "Eqweeky"
+    ],
+    [
+      "саня квадробер",
+      "Mishka",
+      "сахоня"
+    ],
+    [
+      "kxxao",
+      "wortekz",
+      "Toshka"
+    ],
+    [
+      "Roocher",
+      "UncleBulat",
+      "Unees"
+    ]
+  ],
+  "rrGroupIndex": 0,
+  "rrView": "standings",
+  "matches": {
+    "A": [
+      {
+        "p1": "DR|Retro",
+        "p2": "B3stRayyyy",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "DR|Retro",
+        "p2": "Eqweeky",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "B3stRayyyy",
+        "p2": "Eqweeky",
+        "s1": "",
+        "s2": ""
+      }
+    ],
+    "B": [
+      {
+        "p1": "саня квадробер",
+        "p2": "Mishka",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "саня квадробер",
+        "p2": "сахоня",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "Mishka",
+        "p2": "сахоня",
+        "s1": "",
+        "s2": ""
+      }
+    ],
+    "C": [
+      {
+        "p1": "kxxao",
+        "p2": "wortekz",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "kxxao",
+        "p2": "Toshka",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "wortekz",
+        "p2": "Toshka",
+        "s1": "",
+        "s2": ""
+      }
+    ],
+    "D": [
+      {
+        "p1": "Roocher",
+        "p2": "UncleBulat",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "Roocher",
+        "p2": "Unees",
+        "s1": "",
+        "s2": ""
+      },
+      {
+        "p1": "UncleBulat",
+        "p2": "Unees",
+        "s1": "",
+        "s2": ""
+      }
+    ]
+  },
+  "playoffs": {},
+  "drawStarted": true,
+  "followConfirmed": true
+}
